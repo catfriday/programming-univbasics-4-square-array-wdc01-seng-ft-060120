@@ -8,5 +8,6 @@ def square_array(array)
     count+=1
   
   end
-  
+  squared_numbers
+  return array
 end
